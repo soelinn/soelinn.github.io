@@ -1,2 +1,22 @@
-theme: jekyll-theme-midnight
-markdown: kramdown
+# Setup
+title:               Soe Tun
+tagline:             'stun'
+description:         'Personal blog of <a href="https://twitter.com/soelinn" target="_blank">@soelinn</a>.'
+url:                 http://soelinn.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Soe Tun
+  url:               https://twitter.com/soelinn
+  email:             soelinn@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y
