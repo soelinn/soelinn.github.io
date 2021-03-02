@@ -2,7 +2,7 @@
 title:               Soe Tun
 tagline:             'stun'
 description:         'Personal blog of <a href="https://twitter.com/soelinn" target="_blank">@soelinn</a>.'
-url:                 http://soelinn.github.io
+url:                 https://soelinn.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
