@@ -1,2 +1,4 @@
-This section covers my interest and exploration in programming languages and paradigms I learned and used in my career.
-The articles are written for all programmers from beginner to experienced.
+This section covers my interests and experiences from my career, and intended for all programmers from beginner to experienced. I will write about the following topics —
+- programming languages and paradigms 
+- functional programming
+- patterns
