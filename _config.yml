@@ -1,6 +1,6 @@
 # Setup
 title:               Soe Tun
-tagline:             'stun'
+#tagline:             'stun'
 description:         'Personal blog of <a href="https://twitter.com/soelinn" target="_blank">@soelinn</a>.'
 url:                 https://soelinn.github.io
 baseurl:             ''
